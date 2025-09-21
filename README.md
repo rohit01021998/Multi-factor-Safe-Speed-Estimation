@@ -44,11 +44,11 @@ The system was tested using **software-in-the-loop (SIL)** evaluations with the 
 ### Output Videos
 Click on the links below to download and watch the demonstration videos.
 
-1. **City Driving Scenario** – Estimating safe speeds in a simulated urban environment.  
-   [🎥 Watch City Driving Video](integrated_safe_speed_output-2.mp4)
+1. **City Driving Scenario** – Estimating safe speeds in an urban environment.  
+   [🎥 Watch City Video](integrated_safe_speed_output.mp4)
 
 2. **Sharp Turn Navigation** – Adjusting speeds for sharp turns using road geometry analysis.  
-   [🎥 Watch Sharp Turn Video](integrated_safe_speed_output.mp4)
+   [🎥 Watch Sharp Turn Video](integrated_safe_speed_output-2.mp4)
 
 > **Note**: Videos are stored locally in the repository. Download them to view the demonstrations.
 
