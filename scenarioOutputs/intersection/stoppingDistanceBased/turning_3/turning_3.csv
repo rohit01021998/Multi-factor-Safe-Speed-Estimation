@@ -1,0 +1,211 @@
+Frame,Lowest Safe Speed,Vehicles Safe Speeds
+0,Not Detected,
+1,Not Detected,
+2,Not Detected,
+3,Not Detected,
+4,Not Detected,
+5,Not Detected,
+6,Not Detected,
+7,Not Detected,
+8,Not Detected,
+9,Not Detected,
+10,Not Detected,
+11,66.73366449955421,Track 3: 66.73 km/h
+12,64.44918465228051,Track 3: 64.45 km/h
+13,62.70720885965784,Track 3: 62.71 km/h; Track 2: 67.54 km/h
+14,60.148480342399345,Track 3: 60.15 km/h; Track 2: 66.14 km/h
+15,58.65468244275931,Track 3: 58.65 km/h; Track 2: 67.49 km/h
+16,58.98182660057779,Track 3: 58.98 km/h; Track 2: 66.60 km/h
+17,63.06028923280482,Track 3: 63.06 km/h; Track 2: 64.35 km/h
+18,64.32652646331789,Track 3: 64.33 km/h; Track 2: 67.87 km/h
+19,64.29325787213229,Track 3: 64.29 km/h; Track 2: 67.64 km/h
+20,65.67749072616841,Track 3: 65.68 km/h; Track 2: 67.46 km/h
+21,62.75026289318686,Track 3: 62.75 km/h; Track 2: 65.06 km/h
+22,63.30093443845241,Track 3: 63.30 km/h; Track 2: 63.40 km/h
+23,64.14931488028049,Track 3: 65.18 km/h; Track 2: 64.15 km/h
+24,62.085611019809775,Track 3: 62.09 km/h; Track 2: 63.93 km/h
+25,61.5677031827184,Track 3: 61.57 km/h; Track 2: 65.34 km/h
+26,61.60449820604621,Track 3: 61.69 km/h; Track 2: 61.60 km/h
+27,61.475807455809395,Track 3: 61.48 km/h; Track 2: 62.86 km/h
+28,63.02361931686306,Track 3: 63.02 km/h; Track 2: 63.85 km/h
+29,Not Detected,
+30,Not Detected,
+31,57.48694616599657,Track 2: 57.49 km/h
+32,59.49866517180501,Track 2: 59.50 km/h
+33,59.72097228989159,Track 2: 59.72 km/h
+34,55.00134089274552,Track 2: 61.04 km/h; Track 3: 55.00 km/h
+35,55.694951561111274,Track 2: 61.36 km/h; Track 3: 55.69 km/h
+36,56.33340262203733,Track 2: 62.51 km/h; Track 3: 56.33 km/h
+37,57.582663025034606,Track 2: 63.34 km/h; Track 3: 57.58 km/h
+38,57.55473914498158,Track 2: 62.38 km/h; Track 3: 57.55 km/h
+39,57.06053933258764,Track 2: 61.07 km/h; Track 3: 57.06 km/h
+40,57.17766155124526,Track 2: 59.70 km/h; Track 3: 57.18 km/h
+41,55.792815896529746,Track 2: 59.34 km/h; Track 3: 55.79 km/h
+42,56.67510788700721,Track 2: 60.64 km/h; Track 3: 56.68 km/h
+43,55.58411568079162,Track 2: 58.58 km/h; Track 3: 55.58 km/h
+44,54.9224273398613,Track 2: 58.33 km/h; Track 3: 54.92 km/h
+45,53.32273407962651,Track 2: 58.72 km/h; Track 3: 53.32 km/h
+46,52.590916743538344,Track 3: 52.59 km/h
+47,45.72765639708986,Track 3: 45.73 km/h
+48,inf,Track 3: inf km/h
+49,Not Detected,
+50,47.81758704555652,Track 3: 47.82 km/h
+51,49.89148877168799,Track 3: 49.89 km/h
+52,53.76082530886803,Track 2: 53.76 km/h
+53,inf,Track 7: inf km/h
+54,inf,Track 7: inf km/h
+55,50.5717923514742,Track 7: inf km/h; Track 2: 50.57 km/h
+56,inf,Track 7: inf km/h
+57,inf,Track 7: inf km/h
+58,inf,Track 7: inf km/h
+59,48.72322837619073,Track 7: inf km/h; Track 2: 48.72 km/h
+60,48.492795579802696,Track 7: inf km/h; Track 2: 48.49 km/h
+61,46.871006548641695,Track 7: inf km/h; Track 2: 46.87 km/h
+62,47.03650007034099,Track 9: 63.55 km/h; Track 2: 47.04 km/h
+63,Not Detected,
+64,Not Detected,
+65,44.9579070709828,Track 2: 44.96 km/h
+66,44.10907960182703,Track 2: 44.11 km/h
+67,Not Detected,
+68,Not Detected,
+69,Not Detected,
+70,Not Detected,
+71,Not Detected,
+72,Not Detected,
+73,Not Detected,
+74,Not Detected,
+75,Not Detected,
+76,inf,Track 14: inf km/h
+77,inf,Track 14: inf km/h
+78,Not Detected,
+79,Not Detected,
+80,inf,Track 14: inf km/h
+81,Not Detected,
+82,Not Detected,
+83,Not Detected,
+84,Not Detected,
+85,Not Detected,
+86,Not Detected,
+87,Not Detected,
+88,Not Detected,
+89,Not Detected,
+90,Not Detected,
+91,Not Detected,
+92,Not Detected,
+93,Not Detected,
+94,Not Detected,
+95,Not Detected,
+96,Not Detected,
+97,Not Detected,
+98,Not Detected,
+99,Not Detected,
+100,Not Detected,
+101,Not Detected,
+102,Not Detected,
+103,Not Detected,
+104,Not Detected,
+105,Not Detected,
+106,Not Detected,
+107,Not Detected,
+108,Not Detected,
+109,Not Detected,
+110,Not Detected,
+111,48.579894929963054,Track 16: 48.58 km/h
+112,Not Detected,
+113,Not Detected,
+114,Not Detected,
+115,Not Detected,
+116,Not Detected,
+117,Not Detected,
+118,Not Detected,
+119,Not Detected,
+120,Not Detected,
+121,Not Detected,
+122,Not Detected,
+123,Not Detected,
+124,Not Detected,
+125,Not Detected,
+126,Not Detected,
+127,Not Detected,
+128,Not Detected,
+129,Not Detected,
+130,Not Detected,
+131,Not Detected,
+132,Not Detected,
+133,Not Detected,
+134,Not Detected,
+135,Not Detected,
+136,Not Detected,
+137,Not Detected,
+138,Not Detected,
+139,Not Detected,
+140,Not Detected,
+141,Not Detected,
+142,Not Detected,
+143,Not Detected,
+144,Not Detected,
+145,Not Detected,
+146,Not Detected,
+147,Not Detected,
+148,Not Detected,
+149,Not Detected,
+150,Not Detected,
+151,Not Detected,
+152,Not Detected,
+153,Not Detected,
+154,Not Detected,
+155,Not Detected,
+156,Not Detected,
+157,Not Detected,
+158,Not Detected,
+159,Not Detected,
+160,Not Detected,
+161,Not Detected,
+162,Not Detected,
+163,Not Detected,
+164,Not Detected,
+165,Not Detected,
+166,Not Detected,
+167,Not Detected,
+168,Not Detected,
+169,Not Detected,
+170,47.688668225779146,Track 34: 47.69 km/h
+171,48.00173145986019,Track 34: 48.00 km/h
+172,47.9294252743438,Track 34: 47.93 km/h
+173,47.01578109395823,Track 34: 47.02 km/h
+174,47.00736810596824,Track 34: 47.01 km/h
+175,46.94222585646504,Track 34: 46.94 km/h
+176,47.15970445846088,Track 34: 47.16 km/h
+177,47.346643630630645,Track 34: 47.35 km/h
+178,48.44525331092176,Track 34: 48.45 km/h
+179,48.97371370224095,Track 34: 48.97 km/h
+180,50.13856142528299,Track 34: 50.14 km/h
+181,51.06011062914903,Track 34: 51.06 km/h
+182,49.01625129102592,Track 34: 49.02 km/h
+183,49.15640158113946,Track 34: 49.16 km/h
+184,50.967121323993645,Track 34: 50.97 km/h
+185,51.089451510698986,Track 34: 51.09 km/h
+186,49.15157782349477,Track 34: 49.15 km/h
+187,49.74245774035277,Track 34: 49.74 km/h
+188,51.314881425021944,Track 34: 51.31 km/h
+189,51.56942893785583,Track 34: 51.57 km/h
+190,50.689511630666445,Track 34: 50.69 km/h
+191,50.70151639397423,Track 34: 50.70 km/h
+192,50.95983410866653,Track 34: 50.96 km/h
+193,51.02064344095345,Track 34: 51.02 km/h
+194,50.28942687164097,Track 34: 50.29 km/h
+195,50.29819517139755,Track 34: 50.30 km/h
+196,49.98404601427371,Track 34: 49.98 km/h
+197,50.255873024329205,Track 34: 50.26 km/h
+198,51.20980583703855,Track 34: 51.21 km/h
+199,53.41702773965491,Track 34: 53.42 km/h
+200,54.34564974306677,Track 34: 54.35 km/h
+201,55.40827010911254,Track 34: 55.41 km/h; Track 35: inf km/h
+202,55.09116787057387,Track 34: 55.09 km/h; Track 35: inf km/h
+203,53.67224447198157,Track 34: 53.67 km/h; Track 35: inf km/h
+204,52.50671985453683,Track 34: 52.51 km/h; Track 35: inf km/h
+205,52.00582867160481,Track 34: 52.01 km/h; Track 35: inf km/h
+206,51.663091085113656,Track 34: 51.66 km/h; Track 35: inf km/h
+207,51.476310920048455,Track 34: 51.48 km/h; Track 35: inf km/h
+208,53.232593986203604,Track 34: 53.23 km/h; Track 35: inf km/h
+209,53.68670039512958,Track 34: 53.69 km/h; Track 35: inf km/h

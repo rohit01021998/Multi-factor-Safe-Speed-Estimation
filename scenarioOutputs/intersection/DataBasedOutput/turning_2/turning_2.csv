@@ -1,0 +1,150 @@
+turn_type,road_type,environment_type,visibility,effective_pedestrians,effective_traffic,daynight,weather,SafeSpeedLimit
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,Moderate,Day,Clear,49.8778418776504
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,Moderate,Day,Clear,49.8778418776504
+Straight,Medium,Highway,High,Low,Moderate,Day,Clear,49.8778418776504
+Straight,Medium,Highway,High,Low,Moderate,Day,Clear,49.8778418776504
+Straight,Medium,Highway,High,Low,Moderate,Day,Clear,49.8778418776504
+Straight,Medium,Highway,High,Low,Moderate,Day,Clear,49.8778418776504
+Straight,Medium,Highway,High,Low,Moderate,Day,Clear,49.8778418776504
+Straight,Medium,Highway,High,Low,Moderate,Day,Clear,49.8778418776504
+Straight,Medium,Highway,High,Low,Moderate,Day,Clear,49.8778418776504
+Straight,Medium,Highway,High,Low,Moderate,Day,Clear,49.8778418776504
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,Moderate,Day,Clear,49.8778418776504
+Straight,Medium,Highway,High,Low,Moderate,Day,Clear,49.8778418776504
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,Moderate,Day,Clear,49.8778418776504
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Intersection,Medium,City,High,Low,High,Day,Clear,73.48234336378715
+Intersection,Medium,City,High,Low,High,Day,Clear,73.48234336378715
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Intersection,Medium,City,High,Low,High,Day,Clear,73.48234336378715
+Intersection,Medium,City,High,Low,High,Day,Clear,73.48234336378715
+Intersection,Medium,City,High,Low,Moderate,Day,Clear,46.4065142063492
+Intersection,Medium,City,High,Low,Moderate,Day,Clear,46.4065142063492
+Intersection,Medium,City,High,Low,High,Day,Clear,73.48234336378715
+Intersection,Medium,City,High,Low,Moderate,Day,Clear,46.4065142063492
+Intersection,Medium,City,High,Low,Moderate,Day,Clear,46.4065142063492
+Intersection,Medium,City,High,Low,Moderate,Day,Clear,46.4065142063492
+Intersection,Medium,City,High,Low,Moderate,Day,Clear,46.4065142063492
+Intersection,Medium,City,High,Low,High,Day,Clear,73.48234336378715
+Intersection,Medium,City,High,Low,Moderate,Day,Clear,46.4065142063492
+Intersection,Medium,City,High,Low,Low,Day,Clear,47.10245646040235
+Intersection,Medium,Highway,High,Low,High,Day,Clear,77.36141565891448
+Intersection,Medium,Highway,High,Low,Moderate,Day,Clear,52.99657377095793
+Intersection,Medium,Highway,High,Low,Moderate,Day,Clear,52.99657377095793
+Intersection,Medium,Highway,High,Low,High,Day,Clear,77.36141565891448
+Intersection,Medium,Highway,High,Low,High,Day,Clear,77.36141565891448
+Intersection,Medium,Highway,High,Low,High,Day,Clear,77.36141565891448
+Intersection,Medium,Highway,High,Low,Moderate,Day,Clear,52.99657377095793
+Intersection,Medium,Highway,High,Low,Moderate,Day,Clear,52.99657377095793
+Intersection,Medium,Highway,High,Low,Moderate,Day,Clear,52.99657377095793
+Intersection,Medium,Highway,High,Low,Moderate,Day,Clear,52.99657377095793
+Intersection,Medium,Highway,High,Low,Moderate,Day,Clear,52.99657377095793
+Intersection,Medium,Highway,High,Low,Moderate,Day,Clear,52.99657377095793
+Intersection,Medium,Highway,High,Low,High,Day,Clear,77.36141565891448
+Intersection,Medium,Highway,High,Low,High,Day,Clear,77.36141565891448
+Intersection,Medium,Highway,High,Low,High,Day,Clear,77.36141565891448
+Intersection,Medium,Highway,High,Low,Moderate,Day,Clear,52.99657377095793
+Intersection,Medium,Highway,High,Low,Moderate,Day,Clear,52.99657377095793
+Intersection,Medium,Highway,High,Low,Moderate,Day,Clear,52.99657377095793
+Intersection,Medium,Highway,High,Low,Moderate,Day,Clear,52.99657377095793
+Intersection,Medium,Highway,High,Low,High,Day,Clear,77.36141565891448
+Sharp turn,Medium,Highway,High,Low,High,Day,Clear,85.36830464464698
+Sharp turn,Medium,Highway,High,Low,Moderate,Day,Clear,60.312777154601974
+Sharp turn,Medium,Highway,High,Low,High,Day,Clear,85.36830464464698
+Sharp turn,Medium,Highway,High,Low,High,Day,Clear,85.36830464464698
+Sharp turn,Medium,Highway,High,Low,Moderate,Day,Clear,60.312777154601974
+Sharp turn,Medium,Highway,High,Low,Moderate,Day,Clear,60.312777154601974
+Sharp turn,Medium,Highway,High,Low,Moderate,Day,Clear,60.312777154601974
+Sharp turn,Medium,Highway,High,Low,Moderate,Day,Clear,60.312777154601974
+Sharp turn,Medium,Highway,High,Low,Moderate,Day,Clear,60.312777154601974
+Sharp turn,Medium,Highway,High,Low,Moderate,Day,Clear,60.312777154601974
+Sharp turn,Medium,City,High,Low,Low,Day,Clear,61.6979758480275
+Sharp turn,Medium,City,High,Low,Moderate,Day,Clear,45.685746201298706
+Sharp turn,Medium,City,High,Low,Moderate,Day,Clear,45.685746201298706
+Sharp turn,Medium,City,High,Low,Moderate,Day,Clear,45.685746201298706
+Sharp turn,Medium,City,High,Low,Moderate,Day,Clear,45.685746201298706
+Sharp turn,Medium,City,High,Low,Moderate,Day,Clear,45.685746201298706
+Sharp turn,Medium,City,High,Low,Moderate,Day,Clear,45.685746201298706
+Sharp turn,Medium,City,High,Low,Moderate,Day,Clear,45.685746201298706
+Sharp turn,Medium,City,High,Low,Moderate,Day,Clear,45.685746201298706
+Sharp turn,Medium,City,High,Low,Moderate,Day,Clear,45.685746201298706
+Sharp turn,Medium,City,High,Low,Moderate,Day,Clear,45.685746201298706
+Sharp turn,Medium,City,High,Low,High,Day,Clear,87.92616820939925
+Sharp turn,Medium,City,High,Low,High,Day,Clear,87.92616820939925
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,City,High,Low,High,Day,Clear,71.10671049731685
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,Moderate,Day,Clear,49.8778418776504
+Straight,Medium,Highway,High,Low,Moderate,Day,Clear,49.8778418776504
+Straight,Medium,Highway,High,Low,Moderate,Day,Clear,49.8778418776504
+Straight,Medium,Highway,High,Low,Moderate,Day,Clear,49.8778418776504
+Straight,Medium,Highway,High,Low,Moderate,Day,Clear,49.8778418776504
+Straight,Medium,Highway,High,Low,Moderate,Day,Clear,49.8778418776504
+Straight,Medium,Highway,High,Low,Moderate,Day,Clear,49.8778418776504
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,Moderate,Day,Clear,49.8778418776504
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
+Straight,Medium,Highway,High,Low,High,Day,Clear,73.23941125523784
