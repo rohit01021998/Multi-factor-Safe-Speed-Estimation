@@ -1,0 +1,4 @@
+integrated_safe_speed_system.py: Takes Video Input and uses all three method to estimate speed.
+RegressionMethodVideo.py: Takes video input and uses regression model trained on historical data to estimate speed.
+roadCurvatureDetectionLinesVideoV3.py: Takes video input and uses road turning angle to estimate speed.
+leadingVehicleBasedEstimation.py: Takes video input and uses gap between leading and ego vehicle to estimate speed.

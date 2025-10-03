@@ -45,10 +45,10 @@ The system was tested using **software-in-the-loop (SIL)** evaluations with the 
 Click on the links below to download and watch the demonstration videos.
 
 1. **City Driving Scenario** – Estimating safe speeds in an urban environment.  
-   [🎥 Watch City Video](integrated_safe_speed_output.mp4)
+   [🎥 Watch City Video](integrated_safe_speed_output.gif)
 
 2. **Sharp Turn Navigation** – Adjusting speeds for sharp turns using road geometry analysis.  
-   [🎥 Watch Sharp Turn Video](integrated_safe_speed_output-2.mp4)
+   [🎥 Watch Sharp Turn Video](integrated_safe_speed_output-2.gif)
 
 > **Note**: Videos are stored locally in the repository. Download them to view the demonstrations.
 
@@ -113,3 +113,6 @@ Each scenario folder contains outputs from different estimation methods:
 - `turnAngleBasedOutput/` - Road geometry analysis results
 - `stoppingDistanceBased/` - Vehicle tracking analysis results  
 - `DataBasedOutput/` - Environment perception analysis results
+
+Special thanks to:
+- [@mentor](https://github.com/aerostar24) for project supervision and review
